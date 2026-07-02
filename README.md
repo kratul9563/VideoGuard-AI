@@ -24,7 +24,7 @@ VideoGuard AI is an enterprise-grade Generative AI application designed for auto
 
 ## Architecture
 
-(Add architecture diagram here)
+https://github.com/kratul9563/VideoGuard-AI/blob/main/System%20Architecture.jpg
 
 ## Demo
 
