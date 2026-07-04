@@ -28,4 +28,4 @@ https://github.com/kratul9563/VideoGuard-AI/blob/main/System%20Architecture.jpg
 
 ## Demo Link
 
-(https://drive.google.com/file/d/1gMQhtW6kJJmnmrVLm0r70AZdyWU_0Zbo/view?usp=drive_link)
+https://drive.google.com/file/d/1gxv2tRJH_iBXgypPo_0G2SVnX6QpaxvZ/view?usp=drive_link
